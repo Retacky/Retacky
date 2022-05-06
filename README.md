@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Retacky
+- 👋 Hi, my name is Felipe
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Next JS
 
